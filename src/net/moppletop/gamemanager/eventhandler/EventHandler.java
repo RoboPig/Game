@@ -5,7 +5,7 @@ public class EventHandler {
 	@EventHandler
 	public void onUserLogin(UserLoginEvent event) {
 		//TODO: Create A Login EventHandler
-		//TODO: Handle Logins (MutliPlayer Only)
+		//TODO: Handle Logins (MultiPlayer Only)
 	}
 
 }
